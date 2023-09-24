@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "obj",
+			"path": "../homework/obj"
+		},
+		{
+			"name": "homework",
+			"path": "../homework/homework"
+		},
+		{
+			"name": "home 3",
+			"path": "../../.Trash/home 3"
+		},
+		{
+			"name": "Home",
+			"path": "."
+		},
+		{
+			"name": "bin",
+			"path": "../homework/bin"
+		}
+	],
+	"settings": {}
+}
